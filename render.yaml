@@ -1,0 +1,15 @@
+services:
+  - type: worker
+    name: telegram-selling-bot
+    env: node
+    buildCommand: npm install
+    startCommand: node bot.js
+    envVars:
+      - key: BOT_TOKEN
+        value: 8648287870:AAGCjF-U0UEtnyIxxijyJOUZcMd7Co6_6Uw
+      - key: PAYMENT_UPI
+        value: yourupi@upi
+      - key: STORE_NAME
+        value: RedNox Online Shop
+      - key: SECRET_ADMIN_PASS
+        value: admin123

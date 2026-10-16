@@ -1,0 +1,1445 @@
+{
+  "settings": {
+    "storeName": "RedNox Store",
+    "currency": "USD",
+    "ownerUsername": "@Hussain_xd",
+    "adminIds": [
+      "6506288872"
+    ],
+    "binanceApiKey": "QlVUAIm0zrAsn4Wwy2o6zMRQi4hsqQYctSVFQGQIg9Xs0voX0uBtcwWgVS0dWFR3",
+    "binanceApiSecret": "tCUuZwlEdKktWqBznoFYPZssTVpRUvTNEBkIw9LlU8B9TUzNcgnmKZSHOMhE6dys",
+    "paymentMethods": {
+      "binance_pay": "1245075177",
+      "usdt_bep20": "0x9917d2894072e53cd27542e4fc76c152c284a01c"
+    },
+    "maintenanceMode": false,
+    "requiredChannels": [
+      {
+        "id": "chan_1792070329544",
+        "name": "@RedNox_Store1",
+        "username": "@RedNox_Store1",
+        "link": "https://t.me/RedNox_Store1"
+      }
+    ],
+    "forceJoinEnabled": false,
+    "prodSellerApiKey": "psk_be696fc735765f624c51887d06f0b7b607f8a85769a15e6a",
+    "featureToggles": {
+      "couponsEnabled": true,
+      "referralsEnabled": true,
+      "reviewsEnabled": true,
+      "channelRestockEnabled": true,
+      "searchEnabled": true,
+      "lowStockAlertsEnabled": true,
+      "referralCommissionPercent": 5,
+      "referralRewardMode": "cash",
+      "membershipEnabled": true
+    },
+    "referralMilestoneSettings": {
+      "m1Target": 5,
+      "m1DiscountPercent": 10,
+      "m2Target": 10,
+      "m2DiscountPercent": 25,
+      "m3Target": 15,
+      "m3DiscountPercent": 50
+    },
+    "membershipTiers": [
+      {
+        "key": "bronze",
+        "name": "🥉 Bronze",
+        "minSpent": 0,
+        "discountPercent": 0,
+        "perks": [
+          "0% discount on all purchases",
+          "Access to all products"
+        ]
+      },
+      {
+        "key": "silver",
+        "name": "🥈 Silver",
+        "minSpent": 20,
+        "discountPercent": 3,
+        "perks": [
+          "3% discount on all purchases",
+          "Priority support"
+        ]
+      },
+      {
+        "key": "gold",
+        "name": "🥇 Gold",
+        "minSpent": 150,
+        "discountPercent": 5,
+        "perks": [
+          "5% discount on all purchases",
+          "Early access to new products",
+          "Priority support"
+        ]
+      },
+      {
+        "key": "platinum",
+        "name": "💎 Platinum",
+        "minSpent": 500,
+        "discountPercent": 7,
+        "perks": [
+          "7% discount on all purchases",
+          "Exclusive products",
+          "VIP support",
+          "Early access"
+        ]
+      },
+      {
+        "key": "vip",
+        "name": "👑 VIP",
+        "minSpent": 1000,
+        "discountPercent": 10,
+        "perks": [
+          "10% discount on all purchases",
+          "All Platinum perks",
+          "Custom deals"
+        ]
+      }
+    ],
+    "customButtonLabels": {
+      "btn_products": "🛍 Products Catalog  -style:green"
+    },
+    "sellerDepositAddress": "825959351",
+    "sellerDepositPayId": "825959351"
+  },
+  "categories": [],
+  "products": [
+    {
+      "id": "prod_ps_8f2106fe",
+      "prodsellerProductId": "6a2fda51035a6d898f2106fe",
+      "categoryId": null,
+      "name": "Capcut Pro 1 Month FW",
+      "title": "Capcut Pro 1 Month FW",
+      "price": 2.79,
+      "wholesaleCost": 1.29,
+      "description": "-Full 30 days private Pro Team account .\n-Maximum 2 devices , with full warranty .\n-Stable Account full 30 days (no 7days renew ).\n-Login to mobile App first next to laptop (desktop App no web) via QR code .",
+      "photoUrl": "https://projuktihub.com/wp-content/uploads/2025/10/capcut-pro.jpg",
+      "stock": 308,
+      "keyPool": [],
+      "createdAt": "2026-08-12T07:39:40.327Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_8f2106ff",
+      "prodsellerProductId": "6a2fdb4f035a6d898f2106ff",
+      "categoryId": null,
+      "name": "Canva Pro Admin (500 invitations)",
+      "title": "Canva Pro Admin (500 invitations)",
+      "price": 8,
+      "wholesaleCost": 6.5,
+      "description": "You will get a full  email access.\nAfter chack secure your email and change the password.\nThe product is verified with documents and full activated.\nDon't try to change the email or the classroom name .\n",
+      "photoUrl": "https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1iuu1fko51epk1gqk11r51f2411l1r.jpg",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-08-12T07:39:40.328Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_63aedcbd",
+      "prodsellerProductId": "6a2fe23a1c8697b163aedcbd",
+      "categoryId": null,
+      "name": "Microsoft Office 365 Plus 1 year",
+      "title": "Microsoft Office 365 Plus 1 year",
+      "price": 1.79,
+      "wholesaleCost": 0.29,
+      "description": "Microsoft Office 365 Plus – 1 Month + 11 Months (GIFT) Subscription\n\nWhat's Included:\n• Microsoft Word\n• Microsoft Excel\n• Microsoft PowerPoint\n• Microsoft OneNote\n• Microsoft Forms\n• 1TB OneDrive Cloud Storage\n\nProduct Details:\n• Subscription Duration: 1 Month (Guaranteed) + 11 Months (GIFT)\n• Supported Devices: Up to 5 Windows PCs\n• Cloud Storage: 100GB OneDrive\n• Delivery: Instant Digital Delivery after payment\n\nAccount Delivery:\nAfter your payment is confirmed, you will receive your account in the following format:\n\nEmail : Password",
+      "photoUrl": "https://buyantiviruskey.in/cdn/shop/files/Office_365_Professional_Plus_5_Devices_Key.webp?v=1753965969",
+      "stock": 2159,
+      "keyPool": [],
+      "createdAt": "2026-08-12T07:39:40.328Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_cc0d3d9d",
+      "prodsellerProductId": "6a2ff705dbe65bbecc0d3d9d",
+      "categoryId": null,
+      "name": "✉️ Emails Outlook/hotmail",
+      "title": "✉️ Emails Outlook/hotmail",
+      "price": 0.1,
+      "wholesaleCost": 0.02,
+      "description": "full email Access + OTP\nFormat : email|password|token\nOTP link : https://dongvanfb.net/read_mail_box/",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNqsvVyQOtCjFwRmpIwPHo34qiOdNwe1ftw&s",
+      "stock": 16,
+      "keyPool": [],
+      "createdAt": "2026-08-12T07:39:40.328Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_25da2c66",
+      "prodsellerProductId": "6a31035939dc014325da2c66",
+      "categoryId": null,
+      "name": "Gemini Pro 18Months (link)",
+      "title": "Gemini Pro 18Months (link)",
+      "price": 2.03,
+      "wholesaleCost": 0.53,
+      "description": "Google Storage 5 TB Subscription 18 Month \n-No VPN or CC required for activation ! just click to activate and Dooooomm !!!\n- Activation Link (Global)\n-you can invite 5 member of your family of your friends to get also pro plan \n-Plz dont stock the link more than 24 hours !\n",
+      "photoUrl": "https://cdn.shopify.com/s/files/1/0816/2495/7209/files/2025_-_2025-12-10T002455.404.jpg?v=1765319193",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-08-12T07:39:40.328Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_167242c3",
+      "prodsellerProductId": "6a3136d8ccc64c91167242c3",
+      "categoryId": null,
+      "name": "Coursera Plus 12 Months",
+      "title": "Coursera Plus 12 Months",
+      "price": 2.34,
+      "wholesaleCost": 0.84,
+      "description": "You will receive a fully activated, ready-to-use account.\nFull access to the Coursera Plus library for the entire subscription period\nAccredited certificates issued in your real name\nThe account is private and not shared with anyone else\nLearn anytime, anywhere, and at your own pace\n📌 Account Information:\n✔ This is an Organization Plus (Org+) account\n✔ This is NOT a card purchase account\n✔ So, you will NOT see any billing or purchase history\n✔ You may see a top organization logo in Coursera\n✔ However, NO organization details will appear on certificates\n✔ You will get certificates in YOUR OWN NAME\n✔ You can access and complete ALL available courses\n🔗 Join Link:\nhttps://www.coursera.org/programs/eightfold-pliic\n⚠️ Please save this link. If your premium access is ever removed, simply open the link again and click “Join” — you will regain access instantly.",
+      "photoUrl": "https://images.g2a.com/300x400/1x1x1/coursera-plus-1-year-coursera-account-global-i10000505507001/043815ab357748edb2be5182",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-08-12T07:39:40.328Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_47835653",
+      "prodsellerProductId": "6a316a7b1777fc2347835653",
+      "categoryId": null,
+      "name": "Canva Pro 2 yrs FW",
+      "title": "Canva Pro 2 yrs FW",
+      "price": 2,
+      "wholesaleCost": 0.5,
+      "description": "-Activation in email's customers(Full Private Account).\n-Full warranty 2 yrs im Canva pro Edu.\n-All pro features is activated even All AI features .",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpqagKqMEAYfajhHl67Xt_NITxxvJmhUjCtg&s",
+      "stock": 15,
+      "keyPool": [],
+      "createdAt": "2026-08-12T07:39:40.328Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_cf5de314",
+      "prodsellerProductId": "6a39262b5ad41876cf5de314",
+      "categoryId": null,
+      "name": "Netflix 5 profiles Full Access",
+      "title": "Netflix 5 profiles Full Access",
+      "price": 3.5,
+      "wholesaleCost": 2,
+      "description": "Netflix 5 profiles/4 screens\nYou will get a full access  Netflix account .\nYou can create 5 Profiles with PINs.\nformat : Email | emailPassword |Netflix Password\n25D Warranty\nSome countries (1%) require VPN",
+      "photoUrl": "https://static.vecteezy.com/system/resources/previews/017/396/804/non_2x/netflix-mobile-application-logo-free-png.png",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-08-12T07:39:40.328Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_df9660b1",
+      "prodsellerProductId": "6a4bf6b502999800df9660b1",
+      "categoryId": null,
+      "name": "Capcut Pro 7D FW",
+      "title": "Capcut Pro 7D FW",
+      "price": 1.65,
+      "wholesaleCost": 0.15,
+      "description": "",
+      "photoUrl": "",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-08-12T07:39:40.328Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_45a43e8c",
+      "prodsellerProductId": "6a54b931351561c645a43e8c",
+      "categoryId": null,
+      "name": "Notion Plus 12M",
+      "title": "Notion Plus 12M",
+      "price": 2.9,
+      "wholesaleCost": 1.4,
+      "description": "✅ Account email:pass given\n✅ This is Notion Education Plus Account\n✅ Email change is allowed\n✅ 12 Month\n✅ Reset account security after login\n✅ To login go to outlook.com first then login there and login with same email:pass on notion too\n\nFormat \nMail/Hotmail password/notion password",
+      "photoUrl": "https://eduemailshop.com/wp-content/uploads/2023/02/Benefit-Notion-Personal-Pro-1-Year-Edu-Email-Shop.webp",
+      "stock": 17,
+      "keyPool": [],
+      "createdAt": "2026-08-12T07:39:40.328Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_45a46872",
+      "prodsellerProductId": "6a554c34351561c645a46872",
+      "categoryId": null,
+      "name": "ICLOUD MAIL ",
+      "title": "ICLOUD MAIL ",
+      "price": 0.1,
+      "wholesaleCost": 0.058,
+      "description": "It's an email service not apple id .\nTou will get icloud email format Email | Token \n1-oepn : https://mail.congas.uk/\n2-Click import accounts\n3-put the emails by one or by bulk \n4-Done ! you will get access to inbox \n-----------\nThis service isnt to activate Apple ",
+      "photoUrl": "",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-08-12T07:39:40.328Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_6fc160b2",
+      "prodsellerProductId": "6a5b873847b606c66fc160b2",
+      "categoryId": null,
+      "name": "Adobe Express 12M",
+      "title": "Adobe Express 12M",
+      "price": 2.34,
+      "wholesaleCost": 0.84,
+      "description": "- You will receive a redeem link , open it and login with your email you will upgraded instantly to Premium member of adobe express for 12 months .\n- No VPN , No VISA or payemnt required , simple As 1+1=2",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzFznbCMOXY6p4gwbjbvhfh0PveMh1v2KsSytFylYWEw&s=10",
+      "stock": 93,
+      "keyPool": [],
+      "createdAt": "2026-08-12T07:39:40.328Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_bb382958",
+      "prodsellerProductId": "6a6207cf92969197bb382958",
+      "categoryId": null,
+      "name": "iLovePdf Premium 1Yr",
+      "title": "iLovePdf Premium 1Yr",
+      "price": 2,
+      "wholesaleCost": 0.5,
+      "description": "🔻 Full access to all iLovePDF tools\n🔻 Unlimited document processing\n🔻 Access across Web, Mobile, and Desktop\n🔻 Digital Signatures\n🔻 Ad-free experience\n🔻 Regional file processing\n🔻 2000 AI Credits\n✅ You are give email:pass of ILovePdf\nDelivery instructions:\n⚡️Login to ILovePdf wesbite with email:pass given and change passowrd of account.\n",
+      "photoUrl": "https://store-images.s-microsoft.com/image/apps.41602.13704106544145159.2361cf1c-5c7c-45c0-9e88-9fa895103db1.bc03d44c-ef7a-40d7-af20-00597ee5cbb5?h=210",
+      "stock": 216,
+      "keyPool": [],
+      "createdAt": "2026-08-12T07:39:40.328Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_f2f79b85",
+      "prodsellerProductId": "6a6dfd4b1195a651f2f79b85",
+      "categoryId": null,
+      "name": "Windows 11 Pro Lifetime Key",
+      "title": "Windows 11 Pro Lifetime Key",
+      "price": 2.9,
+      "wholesaleCost": 1.4,
+      "description": "You will receive a Windows 11 Pro Retail product Online key for 1 PC.\nThis is a lifetime activation with a satisfying lifetime warranty.\n\n• Genuine Windows 11 Pro Retail key\n• One-time purchase, no subscription\n• Lifetime activation for 1 PC\n• Online activation\n• Instant and automatic delivery",
+      "photoUrl": "",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-08-12T07:39:40.328Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_2c09449a",
+      "prodsellerProductId": "6a71db455bc8d9bc2c09449a",
+      "categoryId": null,
+      "name": "Leonardo Ai 1 Month",
+      "title": "Leonardo Ai 1 Month",
+      "price": 2.5,
+      "wholesaleCost": 1,
+      "description": "Leonardo AI Essentials – 1 Month Full Access (Private Account)\nThis package includes 8,500 AI Credits and provides direct login access using Leonardo AI email and password credentials—no C**** login required.",
+      "photoUrl": "",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-08-12T07:39:40.328Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_8ba101e8",
+      "prodsellerProductId": "6a7826d9cf6984bb8ba101e8",
+      "categoryId": null,
+      "name": "Figma Pro Edu 2yrs",
+      "title": "Figma Pro Edu 2yrs",
+      "price": 8.5,
+      "wholesaleCost": 7,
+      "description": "Figma Pro Education Plan 2 year\nVery stable accounts , no issue since 6 months .\nFormat, email | password\n(figma and hotmail password same)\n🔥 The Make feature is now available in Opus 4.7\n🔥 Get 3,000 credits per month.\nnote: Never change email figma",
+      "photoUrl": "https://play-lh.googleusercontent.com/H_ImRi06A7rPfQflyj2H56OG2AEfy2sTHWFFIYzUmY43IZc0vIneRCjUO29D7hP7JyG7YwKQsl5s2-NO1ys_1A",
+      "stock": 38,
+      "keyPool": [],
+      "createdAt": "2026-08-12T07:39:40.328Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_170e2e1b",
+      "prodsellerProductId": "6a7ca5a1c067993e170e2e1b",
+      "categoryId": null,
+      "name": "Duolingo Super 1 Month Private",
+      "title": "Duolingo Super 1 Month Private",
+      "price": 1.9,
+      "wholesaleCost": 0.4,
+      "description": "Super Duolingo Private Account 30 days\n\nLarge Amounts available\n100% Funtional Account\nThe cheapest in the market\nAccount ready to use or resell",
+      "photoUrl": "https://images.g2a.com/300x400/1x1x1/duolingo-super-1-month-duolingo-account-global-i10000510006002/6da1376103d14eeb8883b842",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-08-12T16:37:13.041Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_b4b5e732",
+      "prodsellerProductId": "6a57be8102cd0192b4b5e732",
+      "categoryId": null,
+      "name": "Spotify Premium 2Months",
+      "title": "Spotify Premium 2Months",
+      "price": 2.2,
+      "wholesaleCost": 0.7,
+      "description": "You will get Full access Account of Spotify premium 2 Months.\nFormat ; email | emailPassword | spotofyPassword .\n",
+      "photoUrl": "https://images.g2a.com/300x400/1x1x1/spotify-premium-subscription-card-individual-2-months-spotify-account-global-i10000036327008/590e065bae653a65930c36ea",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-08-16T03:18:48.535Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_fff286f0",
+      "prodsellerProductId": "6a7e3ab79c0c1126fff286f0",
+      "categoryId": null,
+      "name": "CAPCUT PRO 6MONTHS ",
+      "title": "CAPCUT PRO 6MONTHS ",
+      "price": 10.5,
+      "wholesaleCost": 9,
+      "description": "Private account for 6 months .\n3months Backfree Warranry (only)\n\n",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3VQIoVWD4T7NRhrLif_1omTo15yH_kUYTSJ3ADqA7JV7uCV7KIrk7zNc&s=10",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-08-16T03:18:55.550Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_8417ffa3",
+      "prodsellerProductId": "6a7f7cab969a96358417ffa3",
+      "categoryId": null,
+      "name": "HBO MAX STANDARD 1Month",
+      "title": "HBO MAX STANDARD 1Month",
+      "price": 3.1,
+      "wholesaleCost": 1.6,
+      "description": "🔥 HBO MAX — STANDARD PLAN 🔥\n\n✅ Private Account\n✅ Password Changeable\n✅ Standard Plan\n✅ Premium Streaming Quality\n✅ Watch Movies & TV Shows\n✅ Access to HBO Originals & Max Exclusives\n✅ Multiple Supported Devices\n✅ Reliable & Secure Login\n✅ Instant Delivery\n✅ Ready to Use",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPofZe5f4k2qFUTQILmvENsehcG_SmHhgzqIsL0zn6KQ&s=10",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-08-16T03:18:56.677Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_f2f6e8c7",
+      "prodsellerProductId": "6a6d155f1195a651f2f6e8c7",
+      "categoryId": null,
+      "name": " Windows 10 Pro RETAIL Key",
+      "title": " Windows 10 Pro RETAIL Key",
+      "price": 2.2,
+      "wholesaleCost": 0.7,
+      "description": "You will receive a Windows 10 Pro Retail product Online key for 1 PC.\nThis is a lifetime activation with a satisfying lifetime warranty.\n📝 How to activate:\n👉 Go to Settings → Activation\n👉 Select Change Product Key\n👉 Enter the purchased key → press Activate\n👉 Wait for the system to confirm activation\n",
+      "photoUrl": "",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-08-16T06:42:56.284Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_3bc049a0",
+      "prodsellerProductId": "6a612473af18a2a83bc049a0",
+      "categoryId": null,
+      "name": "Gmails Accounts",
+      "title": "Gmails Accounts",
+      "price": 0.71,
+      "wholesaleCost": 0.6,
+      "description": "You will receive fresh Gmail format gmail | password \n",
+      "photoUrl": "https://play-lh.googleusercontent.com/c6KD_8-GvnGRJA4lRQ4y5YnUa3-LOeYAS7ubw1jWyB9bmr6Kj6zzRvh2A5WBB-Vd3e6zhElmhDv07fCJx2Fc=w240-h480-rw",
+      "stock": 7,
+      "keyPool": [],
+      "createdAt": "2026-10-15T07:44:35.714Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_e32bd2a6",
+      "prodsellerProductId": "6a3d636221735658e32bd2a6",
+      "categoryId": null,
+      "name": "Prime Video 6 Months ",
+      "title": "Prime Video 6 Months ",
+      "price": 3,
+      "wholesaleCost": 1.5,
+      "description": "⏳ Duration: 180 days\n\nFULL PRIVATE ACCOUNTS \n\nFULL ACCESS TO EMAIL\n\n After receiving your account details, you can start watching Amazon Prime Video immediately on your preferred device.\n\nImportant Rules & Warranty:\nDo not change the account password before 24 hours .\n\nDo not try to rent or purchase anything and Don't make any purchase attempt with this\n most important rule\n\nAvoid excessive logins/logouts or suspicious activity.  \n\nWarranty until login",
+      "photoUrl": "https://m.media-amazon.com/images/I/31W9hs7w0JL.png",
+      "stock": 60,
+      "keyPool": [],
+      "createdAt": "2026-10-15T07:44:51.289Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_8b9bdc66",
+      "prodsellerProductId": "6a75800fcf6984bb8b9bdc66",
+      "categoryId": null,
+      "name": "Miro Lifetime Panel 100 invite",
+      "title": "Miro Lifetime Panel 100 invite",
+      "price": 9.5,
+      "wholesaleCost": 8,
+      "description": "Absolute Admin Control: You will be the \"Owner\" and \"Admin\" of the team, controlling all team settings, member permissions, and project spaces—not just a regular member of a shared account.\n\n100-Member Team Scale: Easily create and manage a formal team of up to 100 members, more than enough for class projects, student organizations, or startup teams.",
+      "photoUrl": "https://store-images.s-microsoft.com/image/apps.47763.13959754522315136.87be3224-9693-4fd4-8cd4-af6362fb8d37.b3c24453-164b-4d03-b561-e77aec7c076a?h=210",
+      "stock": 10,
+      "keyPool": [],
+      "createdAt": "2026-10-15T07:44:59.203Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_841ddb30",
+      "prodsellerProductId": "6a820a0b969a9635841ddb30",
+      "categoryId": null,
+      "name": "edX Premium 12Months",
+      "title": "edX Premium 12Months",
+      "price": 2.6,
+      "wholesaleCost": 1.1,
+      "description": "Description:\n✨What's Included\n\n✔️ 12 Months Premium Access\n☺️ Alternative of Coursera\n📩 Ready-Made Account\n🔑 Direct Email & Password\n🌐 Learn from Harvard, MIT & Top Universities\n🔖 Access to Thousands of Courses\n🏅 Eligible for Verified Certificates\n💼 Great for Students & Professionals\n✅ Validity : 12 Months\n🛡 Full warranty\n\n📌 Important\n\n➡️ Ready-made account with login credentials provided.\nformat:\noutlook email | outlook password | edx password\n➡️ Log in using the provided email & password.\n➡️ Change the password after your first login.\n➡️ Start learning instantly.\nDon't change the email or you will lose the warranty. 🛘",
+      "photoUrl": "https://play-lh.googleusercontent.com/Dsl3GBy_jH61cGrPV0as7KhNaLzwr9YQNN7xXbo26GuA2qs6hV1wJgdE3DFyIVJznuyqUrbGhKTOtAGfTYNRBg",
+      "stock": 36,
+      "keyPool": [],
+      "createdAt": "2026-10-15T07:45:08.729Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_2128e7bc",
+      "prodsellerProductId": "6a8834a1fb032a732128e7bc",
+      "categoryId": null,
+      "name": "Avira Prime 3 Months ",
+      "title": "Avira Prime 3 Months ",
+      "price": 2.3,
+      "wholesaleCost": 0.8,
+      "description": "Avira Prime – 3 Months Subscription (5 Devices) 🛡✨\n\nGet premium cybersecurity with complete privacy and full device optimization.\n\nKey Features:\n\n⏳ Duration: 3 Months full access\n\n💻 Device Limit: Up to 5 Devices (Windows, Mac, Android, iOS)\n\n🚀 Full Package: Premium Antivirus, Unlimited Phantom VPN, Password Manager & System Speedup\n\n🔑 Instant Delivery: Pre-activated account credentials (Email & Password) provided immediately\n\n🔒 100% Genuine & Private: Dedicated login for seamless setup\n\nHow to Use:\n\nDownload the official Avira app on your device.\n\nLog in using the provided Email & Password.\n\nEnjoy full protection across all 5 devices!",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrPl3hEK84HfbgfQuC5K8WB60EZp7lBr4U4eFHxJPJjb0BWn3mrPJNLo&s=10",
+      "stock": 55,
+      "keyPool": [],
+      "createdAt": "2026-10-15T07:45:17.342Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_212a202b",
+      "prodsellerProductId": "6a88be06fb032a73212a202b",
+      "categoryId": null,
+      "name": "JetBrains Edu Pack 12m",
+      "title": "JetBrains Edu Pack 12m",
+      "price": 4.5,
+      "wholesaleCost": 3,
+      "description": "💻 JetBrains Student Pack — Legal & Original License\nFormat : outlook|outlookPass|jetbeansPass\n🔐 Private Account\n📅 1 Year License — Extendable Further (Expiry Around Aug 2027)\n🚀 18 Premium Products Included\n🖥️ Works on Windows, macOS & Linux\n🎓 Student License\nDelivery instructions:\nLogin to Jetbrain  with email pass given for mail acess same",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDEYBgPr3K1e135xACkmgf-D8pgRgxZ6Kf5IhRdwqhuLNzOigzu29r7pcH&s=10",
+      "stock": 4,
+      "keyPool": [],
+      "createdAt": "2026-10-15T07:45:24.352Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_430c7b18",
+      "prodsellerProductId": "6a8ad927f870e3b3430c7b18",
+      "categoryId": null,
+      "name": "Framer AI 1 Year ",
+      "title": "Framer AI 1 Year ",
+      "price": 7,
+      "wholesaleCost": 5.5,
+      "description": "Looking to take your Framer website to the next level? Get your official Basic Plan yearly subscription code now at an amazing price!\n✨ Service Features:\n100% Official Subscription: Full 1-year access to the Basic Plan.\nInstant Delivery: Receive your code immediately after payment to upgrade your site yourself.\nGreat Savings: Unlock professional website features at an exceptional value.\n\n💡 Note: This code is specifically for the Yearly Plan to ensure seamless, long-term performance for your site.\n\n🛒 Click the purchase button above to get your code instantly!\nHow to activate :\nGo to the project you want to upgrade from a Free plan to the Basic plan.\nClick the Settings icon in the top right and navigate to the Plans tab.\nClick Subscribe under the Basic plan.\nSelect the yearly plan.\nSelect Add Promotion Code and submit:",
+      "photoUrl": "https://fahimai.com/wp-content/uploads/2025/02/Framer-CTA.png",
+      "stock": 10,
+      "keyPool": [],
+      "createdAt": "2026-10-15T07:45:28.387Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_43103eb0",
+      "prodsellerProductId": "6a8c8ef9f870e3b343103eb0",
+      "categoryId": null,
+      "name": "Autodesk all Apps 1 Year",
+      "title": "Autodesk all Apps 1 Year",
+      "price": 2,
+      "wholesaleCost": 0.5,
+      "description": "1 year subscribtion to Autodesk Student .\nInvitation in customers emails to Autodesk .\nAlmost app are include (3dsmax , autocad , fussion ..)\nif you want to add specific app (message us)\nFull warranty .\n",
+      "photoUrl": "https://www.wiresoft.com/media/image/01/f0/83/autodesk-logo.jpg",
+      "stock": 9,
+      "keyPool": [],
+      "createdAt": "2026-10-15T07:45:37.757Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_5d045d0a",
+      "prodsellerProductId": "6a920a4463bcf8795d045d0a",
+      "categoryId": null,
+      "name": "Telegram Account ",
+      "title": "Telegram Account ",
+      "price": 2.5,
+      "wholesaleCost": 1,
+      "description": "⚡️ Instant Login Guide\n\n1. Open Telegram → Enter your phone number → Click Send Code / Get OTP.\n2. Go to the OTP Portal: https://analyzed-falling-copied-transparent.trycloudflare.com\n3. Enter your Phone Number  → Click start Fetching OTP.\n4. Copy the live code and complete the login.\n\n🔒 IMPORTANT — OTP GUARANTEE:\nWe only guarantee the first OTP/login.\n\nAfter the first login, the buyer must link their Gmail/recovery email to the account to receive future OTPs directly.\n\n⚠️ Please make sure to set up 2FA and add a recovery Gmail immediately after login to secure the account and avoid future login issues.\n\n⏱️ OTP usually appears automatically within 10–15 seconds.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1280px-Telegram_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20220101141644",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-10-15T07:45:44.419Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_34b0d774",
+      "prodsellerProductId": "6a93e9fdd46143eb34b0d774",
+      "categoryId": null,
+      "name": "HBO MAX 3 MONTHS",
+      "title": "HBO MAX 3 MONTHS",
+      "price": 3,
+      "wholesaleCost": 1.5,
+      "description": "NO VPN REQUIRED \nSIGN IN VIA EMAIL AND PASSWORD \nFULL PRIVATE ACCOUNT \nWarranty : one months",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbE-4DrGBURRwhKIje1Imx00bownYegjPQV3KC_wt6UdXYft7dxlA86Cjy&s=10",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-10-15T07:45:49.416Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_b2ebe88e",
+      "prodsellerProductId": "6aa4551bc76bc3aeb2ebe88e",
+      "categoryId": null,
+      "name": "CAPCUT PRO 1600 CREDITS",
+      "title": "CAPCUT PRO 1600 CREDITS",
+      "price": 3.1,
+      "wholesaleCost": 1.6,
+      "description": "CAPCUT PRO 1Month 1,600 CREDITS\nFull Warranty \n\n",
+      "photoUrl": "https://static.vecteezy.com/system/resources/thumbnails/067/065/640/small_2x/capcut-logo-square-rounded-capcut-logo-capcut-logo-free-download-free-png.png",
+      "stock": 52,
+      "keyPool": [],
+      "createdAt": "2026-10-15T07:45:56.466Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_65ffb2d2",
+      "prodsellerProductId": "6abeace70dbb401865ffb2d2",
+      "categoryId": null,
+      "name": "Apple TV 12 Months Link",
+      "title": "Apple TV 12 Months Link",
+      "price": 2.9,
+      "wholesaleCost": 1.4,
+      "description": "📺APPLE TV 12M ACTIVATION LINK\n\n🎁48 HOURs HOLD WARRANTY \n🍏 SIMPLE AS GEMINI/DUOLINGO LINKS\nNO CARD/PAYMENTMETHOD REQUIRED✅\n\n📱ACTIVATION PROCESS \nGO TO APPLE TV WEBSITE AND CREATE A ACCOUNT USING USA VPN PASTE LINK AND ACTIVE SUBSCRIPTION \nNO VPN NEED AFTER ACTIVATING SUBACRUPTION\nNeed vpn usa and maybe New account with ip usa\nℹ️ NO WARRANTY AFTER ACTIVATION ",
+      "photoUrl": "https://store-images.s-microsoft.com/image/apps.41554.13698947292982888.2b6836e9-5320-44bf-9011-c50a8f82bb9e.e109576f-4770-48c1-8957-21addeb3222b",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-10-15T07:46:04.075Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_65ffe95f",
+      "prodsellerProductId": "6abeb3210dbb401865ffe95f",
+      "categoryId": null,
+      "name": "Wispr Flow 12M Edu",
+      "title": "Wispr Flow 12M Edu",
+      "price": 5.2,
+      "wholesaleCost": 3.7,
+      "description": "🔥 Subscription Features (Student Plan): 🔥\n✅ Unlimited word count: Speak and write freely without restrictions; works across all your devices.\n✅ Support for over 100 languages: The software understands and writes in numerous languages ​​with high accuracy.\n✅ Command mode: Edit and format text quickly and easily.\n✅ Team collaboration features: Easily work on projects and share your work with colleagues and your team.\n✅ Priority technical support: Any issues you encounter will be resolved promptly.\n✅ Early access to updates: Be the first to try out new features and updates.\n💡 These subscriptions are genuine, guaranteed for a full year, and offered at an excellent price!",
+      "photoUrl": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxilcRFIcziaU_8SpB4n.5neL5UNJ0diOOJ83SyO58dG2pYGX2GfjiRjd7HNOirp9A1xkJKCYAi0JPrNedRZrHWQ-&format=source&h=210",
+      "stock": 14,
+      "keyPool": [],
+      "createdAt": "2026-10-15T07:46:05.683Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_5b380122",
+      "prodsellerProductId": "6ac0c65e5f3b1a835b380122",
+      "categoryId": null,
+      "name": "100$ API Claude 30days",
+      "title": "100$ API Claude 30days",
+      "price": 2.9,
+      "wholesaleCost": 1.4,
+      "description": "🛍️ PRODUCT INFORMATION\n━━━━━━━━━━━━━━━━\n🔑 100$ API Claude - 30 days\n\n100% genuine Claude API (100% refund if fake).\n• Works with all apps: vscode ,codex, 9router, claude code, cursor, etc.\n• Full warranty .\n• Detailed guide: https://docs.google.com/document/d/1bKvZSBqpS5eIq5EsQ45nagvH6KB1ywqjcIk7BcWkVF0/edit?tab=t.tbg84q5rs9yi\nYou can watch the video in the Doc (simple tuto)\n",
+      "photoUrl": "https://images.g2a.com/323x433/1x1x1/claude-api-key-p10000514852/f6d0c7e129d247a7bc1b228a",
+      "stock": 44,
+      "keyPool": [],
+      "createdAt": "2026-10-15T07:46:12.965Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_5b386fe8",
+      "prodsellerProductId": "6ac0e0ab5f3b1a835b386fe8",
+      "categoryId": null,
+      "name": "API CLAUDE -10M Token- 1Day",
+      "title": "API CLAUDE -10M Token- 1Day",
+      "price": 2.15,
+      "wholesaleCost": 0.65,
+      "description": "\n🔑 API CLAUDE - 10M Token - 1 day\n\n🛡️ 100% Genuine Claude API (100% refund guaranteed if not authentic).\n⚡ Seamlessly compatible with all tools & IDEs: 9router, Claude Dev, Cursor, VS Code, etc.\n⏳ Validity: 1 Day\n\n📋 Quick Setup Instructions:\n🔹 Step 1: Visit 👉 https://miraiapi.com/usage/#redeem to redeem your code (Enter the code provided in your order details).\n🔹 Step 2: Visit 👉 https://miraiapi.com/usage/#config to configure your API Key, select your target App, and choose the ideal Model.\n✨ All done & Ready to code!\n\n📖 Detailed Documentation & Guide: 🔗 https://docs.google.com/document/d/16smXXteTwJYdrxTfdZlJvOkSEFkVL_6UBxoXcXZH6Gc/edit?tab=t.tbg84q5rs9yi\n\n⚠️ Important Notice: The validity period only starts counting once the redeem code is activated. You can store or resell the code .",
+      "photoUrl": "https://images.g2a.com/323x433/1x1x1/claude-api-key-p10000514852/f6d0c7e129d247a7bc1b228a",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-10-15T07:46:14.405Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_5b398396",
+      "prodsellerProductId": "6ac0ea6d5f3b1a835b398396",
+      "categoryId": null,
+      "name": "API CODEX-10M Token-1Day",
+      "title": "API CODEX-10M Token-1Day",
+      "price": 2.2,
+      "wholesaleCost": 0.7,
+      "description": "\n🗝️ API ChatGPT CODEX - 10M Token - 1 day\n🛡️ 100% Genuine Codex API (100% refund guaranteed if not authentic).\n⚡ Seamlessly compatible with all tools & IDEs: 9router, Codex, Cursor, VS Code, etc.\n⏳ Validity: 1 Day\n\n📋 Quick Setup Instructions:\n🔹 Step 1: Visit 👉 https://miraiapi.com/usage/#redeem to redeem your code (Enter the code provided in your order details).\n🔹 Step 2: Visit 👉 https://miraiapi.com/usage/#config to configure your API Key, select your target App, and choose the ideal Model.\n✨ All done & Ready to code!\n🤖 Available Models:\n  💫 gpt-6-astra\n  💫 gpt-6-sol\n  ⚡ gpt-5.6-luna\n  🌍 gpt-5.6-terra\n  ☀️ gpt-5.6-sol\n📊 Check quota balance & expiry date at: 🔗 https://miraiapi.com/usage/\n\n📖 Detailed Documentation & Guide: 🔗 https://docs.google.com/document/d/16cKyUu_8IjzJ88IaVLtW5OvkyJDtDnMVa_foKxG5eaE/edit?tab=t.gxgg5ayizr8d\n\n⚠️ Important Notice: The validity period only starts counting once the redeem code is activated. You can store or resell the code .",
+      "photoUrl": "https://cdn.thenewstack.io/media/2026/03/043fcf31-codex_share-image_v1.png",
+      "stock": 28,
+      "keyPool": [],
+      "createdAt": "2026-10-15T08:09:49.598Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_5b39bab6",
+      "prodsellerProductId": "6ac0ebce5f3b1a835b39bab6",
+      "categoryId": null,
+      "name": " API CODEX-50M Token-2Day",
+      "title": " API CODEX-50M Token-2Day",
+      "price": 3.45,
+      "wholesaleCost": 1.95,
+      "description": "\n🗝️ API ChatGPT CODEX - 50M Token - 2day\n🛡️ 100% Genuine Codex API (100% refund guaranteed if not authentic).\n⚡ Seamlessly compatible with all tools & IDEs: 9router, Codex, Cursor, VS Code, etc.\n⏳ Validity: 2 Day\n\n📋 Quick Setup Instructions:\n🔹 Step 1: Visit 👉 https://miraiapi.com/usage/#redeem to redeem your code (Enter the code provided in your order details).\n🔹 Step 2: Visit 👉 https://miraiapi.com/usage/#config to configure your API Key, select your target App, and choose the ideal Model.\n✨ All done & Ready to code!\n🤖 Available Models:\n  💫 gpt-6-astra\n  💫 gpt-6-sol\n  ⚡ gpt-5.6-luna\n  🌍 gpt-5.6-terra\n  ☀️ gpt-5.6-sol\n📊 Check quota balance & expiry date at: 🔗 https://miraiapi.com/usage/\n\n📖 Detailed Documentation & Guide: 🔗 https://docs.google.com/document/d/16cKyUu_8IjzJ88IaVLtW5OvkyJDtDnMVa_foKxG5eaE/edit?tab=t.gxgg5ayizr8d\n\n⚠️ Important Notice: The validity period only starts counting once the redeem code is activated. You can store or resell the code .",
+      "photoUrl": "https://cdn.thenewstack.io/media/2026/03/043fcf31-codex_share-image_v1.png",
+      "stock": 10,
+      "keyPool": [],
+      "createdAt": "2026-10-15T08:09:50.151Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_a2876173",
+      "prodsellerProductId": "6ac14f2c9acfaa92a2876173",
+      "categoryId": null,
+      "name": "500$ API Claude - 30 days",
+      "title": "500$ API Claude - 30 days",
+      "price": 6.3,
+      "wholesaleCost": 4.8,
+      "description": "🛍️ PRODUCT INFORMATION\n━━━━━━━━━━━━━━━━\n🔑 500$ API Claude - 30 days\n\n100% genuine Claude API (100% refund if fake).\n• Works with all apps: vscode ,codex, 9router, claude code, cursor, etc.\n• Full warranty .\n• Detailed guide: https://docs.google.com/document/d/1bKvZSBqpS5eIq5EsQ45nagvH6KB1ywqjcIk7BcWkVF0/edit?tab=t.tbg84q5rs9yi\nYou can watch the video in the Doc (simple tuto)\n",
+      "photoUrl": "https://images.g2a.com/323x433/1x1x1/claude-api-key-p10000514852/f6d0c7e129d247a7bc1b228a",
+      "stock": 9,
+      "keyPool": [],
+      "createdAt": "2026-10-15T08:09:50.709Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_a28798b6",
+      "prodsellerProductId": "6ac150a19acfaa92a28798b6",
+      "categoryId": null,
+      "name": "API CODEX - 100M Token - 3day",
+      "title": "API CODEX - 100M Token - 3day",
+      "price": 5.3,
+      "wholesaleCost": 3.8,
+      "description": "\n🗝️ API ChatGPT CODEX - 100M Token - 3day\n🛡️ 100% Genuine Codex API (100% refund guaranteed if not authentic).\n⚡ Seamlessly compatible with all tools & IDEs: 9router, Codex, Cursor, VS Code, etc.\n⏳ Validity: 2 Day\n\n📋 Quick Setup Instructions:\n🔹 Step 1: Visit 👉 https://miraiapi.com/usage/#redeem to redeem your code (Enter the code provided in your order details).\n🔹 Step 2: Visit 👉 https://miraiapi.com/usage/#config to configure your API Key, select your target App, and choose the ideal Model.\n✨ All done & Ready to code!\n🤖 Available Models:\n  💫 gpt-6-astra\n  💫 gpt-6-sol\n  ⚡ gpt-5.6-luna\n  🌍 gpt-5.6-terra\n  ☀️ gpt-5.6-sol\n📊 Check quota balance & expiry date at: 🔗 https://miraiapi.com/usage/\n\n📖 Detailed Documentation & Guide: 🔗 https://docs.google.com/document/d/16cKyUu_8IjzJ88IaVLtW5OvkyJDtDnMVa_foKxG5eaE/edit?tab=t.gxgg5ayizr8d\n\n⚠️ Important Notice: The validity period only starts counting once the redeem code is activated. You can store or resell the code .",
+      "photoUrl": "https://cdn.thenewstack.io/media/2026/03/043fcf31-codex_share-image_v1.png",
+      "stock": 7,
+      "keyPool": [],
+      "createdAt": "2026-10-15T08:09:51.236Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_469ab075",
+      "prodsellerProductId": "6ac505e1d07e0053469ab075",
+      "categoryId": null,
+      "name": "API CLAUDE - 50M Token - 2day",
+      "title": "API CLAUDE - 50M Token - 2day",
+      "price": 3.8,
+      "wholesaleCost": 2.3,
+      "description": "\n🔑 API CLAUDE - 50M Token - 2day\n\n🛡️ 100% Genuine Claude API (100% refund guaranteed if not authentic).\n⚡ Seamlessly compatible with all tools & IDEs: 9router, Claude Dev, Cursor, VS Code, etc.\n⏳ Validity: 2 Day\n\n📋 Quick Setup Instructions:\n🔹 Step 1: Visit 👉 https://miraiapi.com/usage/#redeem to redeem your code (Enter the code provided in your order details).\n🔹 Step 2: Visit 👉 https://miraiapi.com/usage/#config to configure your API Key, select your target App, and choose the ideal Model.\n✨ All done & Ready to code!\n\n📖 Detailed Documentation & Guide: 🔗 https://docs.google.com/document/d/16smXXteTwJYdrxTfdZlJvOkSEFkVL_6UBxoXcXZH6Gc/edit?tab=t.tbg84q5rs9yi\n\n⚠️ Important Notice: The validity period only starts counting once the redeem code is activated. You can store or resell the code .",
+      "photoUrl": "https://images.g2a.com/323x433/1x1x1/claude-api-key-p10000514852/f6d0c7e129d247a7bc1b228a",
+      "stock": 6,
+      "keyPool": [],
+      "createdAt": "2026-10-15T08:09:51.829Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_469f477d",
+      "prodsellerProductId": "6ac65a53d07e0053469f477d",
+      "categoryId": null,
+      "name": "Muse AI ",
+      "title": "Muse AI ",
+      "price": 2.6,
+      "wholesaleCost": 1.1,
+      "description": "Otp Code from here :\nhttps://dev-api.cc/muse.php\nHow to use :\nhttps://www.youtube.com/watch?v=lpsRG9VSDuQ\n🔥 1 Billion Tokens Included\n🎨 AI Image Generation\n🎥 AI Video Generation\n🎬 Perfect for Short & Long Videos — even 1+ hour videos\n----------\n2nd for (temp mails)\nStep 1 : Log in with these details on https://www.tmail.pk/login\nStep 2 : Go to muse.ai web or app\nStep 3 : Enter mail\nStep 4 : Enter otp you got on tmail.pk\nDone ✅\n\n⚠️ Changing email to your personal email is recommended \nFormat Mail|Mailbox",
+      "photoUrl": "https://cdn.alternatives.co/software/muse-ai/logo.jpg",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-10-15T08:09:52.351Z",
+      "inStock": false
+    },
+    {
+      "id": "prod_ps_4d2cf283",
+      "prodsellerProductId": "6ac88922cd35776c4d2cf283",
+      "categoryId": null,
+      "name": "SCRIBD PREMIUM 1M FW",
+      "title": "SCRIBD PREMIUM 1M FW",
+      "price": 2.2,
+      "wholesaleCost": 0.7,
+      "description": "FULL PRIVATE ACCOUNT \n\nFULL ACCESS TO OUTLOOK MAIL\n\nEMAIL/PASSWORD LOGIN\n\nPREMIUM MONTHLY PLAN",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4dr_1douKcRaHQm_Y-TaQIrLqU6wRLVYGFqIxvwIuVg&s=10",
+      "stock": 4,
+      "keyPool": [],
+      "createdAt": "2026-10-15T08:09:52.877Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_36a833a0",
+      "prodsellerProductId": "6ace8ab5a8f487d336a833a0",
+      "categoryId": null,
+      "name": "Gmail USA (global)",
+      "title": "Gmail USA (global)",
+      "price": 1.06,
+      "wholesaleCost": 0.9,
+      "description": "Gmail USA (global)\nNo need vpn\nFormat Gmail | password ",
+      "photoUrl": "https://play-lh.googleusercontent.com/c6KD_8-GvnGRJA4lRQ4y5YnUa3-LOeYAS7ubw1jWyB9bmr6Kj6zzRvh2A5WBB-Vd3e6zhElmhDv07fCJx2Fc=w240-h480-rw",
+      "stock": 9,
+      "keyPool": [],
+      "createdAt": "2026-10-15T08:09:53.410Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_36a95463",
+      "prodsellerProductId": "6acf2df1a8f487d336a95463",
+      "categoryId": null,
+      "name": "Gmail mix ip 2020/2022",
+      "title": "Gmail mix ip 2020/2022",
+      "price": 1.42,
+      "wholesaleCost": 1.2,
+      "description": " gmail mix ip 2020/2022",
+      "photoUrl": "https://play-lh.googleusercontent.com/c6KD_8-GvnGRJA4lRQ4y5YnUa3-LOeYAS7ubw1jWyB9bmr6Kj6zzRvh2A5WBB-Vd3e6zhElmhDv07fCJx2Fc=w240-h480-rw",
+      "stock": 2,
+      "keyPool": [],
+      "createdAt": "2026-10-15T08:09:53.938Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_36acb4ab",
+      "prodsellerProductId": "6acf6cf6a8f487d336acb4ab",
+      "categoryId": null,
+      "name": "ElevenLabs API 131K Credit",
+      "title": "ElevenLabs API 131K Credit",
+      "price": 3.7,
+      "wholesaleCost": 2.2,
+      "description": "💎 Description:\n🔥Vibi.Pro\nvibi.pro is an online AI voice generation tool and an official partner of ElevenLabs & MiniMax.\n\n💎 VIBI'S COMMITMENT TO YOU\n✅ Official AI models – Direct access to voice models from ElevenLabs & MiniMax. No fake models, no low-quality copies.\n✅ Over 10,000 multilingual voices – A diverse voice library with multiple languages and styles, providing natural, high-quality results for various content creation needs.\n✅ Monthly credits do not expire – You only pay for what you use. Any remaining credits will be saved in your account and can be used at any time without expiring at the end of the month.\n✅ Credit protection throughout usage – Your credits are protected throughout your time using the service, giving complete peace of mind when you purchase and experience VIBI.\n\n🛡️ WARRANTY POLICY\nVIBI provides comprehensive support and assistance in the following cases:\n• Your activation code cannot be activated.\n• The number of credits added to your account is incorrect.\n• Technical issues occur due to VIBI's system.\nOur support team will assist and resolve any system-related issues throughout your use of the service.\n\n⚠️ IMPORTANT NOTES\n• Each activation code can only be used once.\n• Please make sure you are logged into the correct account before entering the code.\n• Once an activation code has been activated, it cannot be refunded, transferred, or moved to another account.\n\n🌐 Use at: Vibi.pro",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa0J4YtVPXtNJEyX-pEFAmWrYKLo5rPSdTJj-JCQrdsTZ4be0LcmGDFNJ5&s=10",
+      "stock": 15,
+      "keyPool": [],
+      "createdAt": "2026-10-15T08:09:54.487Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_36b13845",
+      "prodsellerProductId": "6acfc869a8f487d336b13845",
+      "categoryId": null,
+      "name": "Spotify premium account1M FW ",
+      "title": "Spotify premium account1M FW ",
+      "price": 2.43,
+      "wholesaleCost": 0.93,
+      "description": "TERMS & CONDITIONS:\n\n✅ Free to change the password or not change it also doesn't matter, because only you can access the account.\n\n⌛️Please be patient not to change the details of the name/profile photo in the FIRST 1 MONTH SINCE PURCHASE, so that the account remains durable or wait for 1 month. after that it can be replaced\n\n⚠️PROHIBITED TO CHANGE EMAIL! Caught changing email = BURNT GUARANTEE + KICK FROM FAMILY\n\nTIPS:\n\nBefore logging in, it is recommended to Clear Data first for android users and Offload/reInstall for iOS users, to avoid incorrect password even though it is correct\n\nREMINDER:\n\nIf the tips above have been tried but still incorrect, it means that there is a suspicious activity where the security system from Spotify automatically resets the password by itself.",
+      "photoUrl": "https://images.g2a.com/300x400/1x1x1/spotify-premium-subscription-card-individual-2-months-spotify-account-global-i10000036327008/590e065bae653a65930c36ea",
+      "stock": 17,
+      "keyPool": [],
+      "createdAt": "2026-10-15T08:09:55.120Z",
+      "inStock": true
+    },
+    {
+      "id": "prod_ps_5cbe2a8e",
+      "prodsellerProductId": "6aa5bafb77c587d75cbe2a8e",
+      "categoryId": null,
+      "name": "Duolingo Super 12M ",
+      "title": "Duolingo Super 12M ",
+      "price": 1.82,
+      "wholesaleCost": 0.32,
+      "description": "\n💡 Quick Guide\n⚡Just keep your account logged in in the browser. Open the link in a new tab and click Claim Offer — it will be activated automatically.\n📋 Terms of Service\n⚡Plan: Super\n⚡Duration: 12 Month\n⚡Access: On Your Account\n⚡Official Coupon Code\n⚡No Warranty After Activation\n⚡No need any card\n﻿💡 Quick Guide\n⚡Just keep your account logged in in the browser. Open the link in a new tab and click Claim Offer — it will be activated automatically.\n😞Note :-\n➡️If the code isn’t working in your country, please try using this VPN\n➡️Set the VPN location to India 🇮🇳 and then try redeeming the code again.\n\n➡️VPN - https://chromewebstore.google.com/detail/nodus-vpn/hgjgkgnmflipmgmknglemhgkpfdfepbh\n\n➡️VPN - https://chromewebstore.google.com/detail/nodus-vpn/hgjgkgnmflipmgmknglemhgkpfdfepbh\n",
+      "photoUrl": "https://images.g2a.com/300x400/1x1x1/duolingo-super-12-months-duolingo-account-global-i10000510006001/6da1376103d14eeb8883b842",
+      "stock": 0,
+      "keyPool": [],
+      "createdAt": "2026-10-15T10:00:06.419Z",
+      "inStock": false
+    }
+  ],
+  "users": {
+    "999888777": {
+      "userId": "999888777",
+      "username": "",
+      "firstName": "User",
+      "role": "user",
+      "language": "en",
+      "balance": 100,
+      "joinedAt": "2026-08-12T09:38:07.563Z"
+    },
+    "1918573072": {
+      "userId": 1918573072,
+      "username": "GhostYTDEV",
+      "firstName": "𝗚𝗛𝗢𝗦𝗧 𝗚𝗔𝗠𝗜𝗡𝗚 𝗬𝗧",
+      "role": "admin",
+      "language": "en",
+      "balance": 0,
+      "joinedAt": "2026-08-09T11:57:59.214Z"
+    },
+    "6506288872": {
+      "userId": 6506288872,
+      "username": "Hussain_xd",
+      "firstName": "𝙷𝚞𝚜𝚜𝚊𝚒𝚗",
+      "role": "admin",
+      "language": "en",
+      "balance": 2.569999999999999,
+      "joinedAt": "2026-08-09T07:54:48.966Z"
+    },
+    "5603246329": {
+      "userId": 5603246329,
+      "username": "Zayn0228",
+      "firstName": "M",
+      "role": "admin",
+      "language": "en",
+      "balance": 0,
+      "joinedAt": "2026-08-09T08:10:45.252Z"
+    },
+    "7761087029": {
+      "userId": 7761087029,
+      "username": "Hex_fc",
+      "firstName": "𝗛𝗘𝗫⁰⁷ 🇵🇰",
+      "role": "admin",
+      "language": "en",
+      "balance": 0,
+      "joinedAt": "2026-08-09T16:36:50.236Z"
+    },
+    "6665651781": {
+      "userId": 6665651781,
+      "username": "Rednox_Bro",
+      "firstName": "Kabeer",
+      "role": "admin",
+      "language": "en",
+      "balance": 0,
+      "joinedAt": "2026-08-09T16:39:58.560Z"
+    },
+    "7107553688": {
+      "userId": 7107553688,
+      "username": "K1024_0x",
+      "firstName": "𝐊𝐇𝐀𝐋𝐈𝐃",
+      "role": "admin",
+      "language": "en",
+      "balance": 0,
+      "joinedAt": "2026-08-12T15:45:09.144Z"
+    },
+    "8571302200": {
+      "userId": 8571302200,
+      "username": "DesertXsupporteam",
+      "firstName": "Desert X Support",
+      "role": "admin",
+      "language": "en",
+      "balance": 0,
+      "joinedAt": "2026-08-12T16:05:28.613Z"
+    },
+    "6921052522": {
+      "userId": 6921052522,
+      "username": "Knox_ofc",
+      "firstName": "Ꮶ𝙽𝙾𝚇⁴⁰⁴",
+      "role": "user",
+      "language": "en",
+      "balance": 0,
+      "joinedAt": "2026-08-16T15:31:59.901Z"
+    },
+    "6846863055": {
+      "userId": 6846863055,
+      "username": "UmarGamingYT",
+      "firstName": "𝗨𝗠𝗔𝗥 𝗚𝗔𝗠𝗜𝗡𝗚 𝗬𝗧",
+      "role": "user",
+      "language": "en",
+      "balance": 0,
+      "joinedAt": "2026-08-16T15:32:00.489Z"
+    },
+    "6018660642": {
+      "userId": 6018660642,
+      "username": "Txkhcjl",
+      "firstName": "🌱SEED",
+      "role": "admin",
+      "language": "en",
+      "balance": 0.45,
+      "joinedAt": "2026-10-15T08:15:07.364Z"
+    }
+  },
+  "carts": {
+    "5603246329": [],
+    "6506288872": [],
+    "6665651781": [],
+    "6018660642": []
+  },
+  "orders": [
+    {
+      "id": "ORD-179424",
+      "userId": "6506288872",
+      "username": "Hussain_xd",
+      "items": [
+        {
+          "id": "prod_1786262236871",
+          "name": "☁️ Gemini Pro Accounts",
+          "qty": 1,
+          "priceUsd": 0.01
+        }
+      ],
+      "totalAmount": 0.01,
+      "currency": "USD",
+      "paymentMethod": "binance_pay",
+      "paymentProof": "447617819743764480",
+      "status": "approved",
+      "createdAt": "2026-08-09T11:41:15.268Z"
+    },
+    {
+      "id": "ORD-568068",
+      "userId": "5603246329",
+      "username": "Zayn0228",
+      "items": [
+        {
+          "id": "prod_1786262236871",
+          "name": "☁️ Gemini Pro Accounts",
+          "qty": 1,
+          "priceUsd": 0.01
+        }
+      ],
+      "totalAmount": 0.01,
+      "currency": "USD",
+      "paymentMethod": "Wallet Balance",
+      "paymentProof": "Internal Wallet Deduction",
+      "status": "approved",
+      "createdAt": "2026-08-09T12:12:47.418Z"
+    },
+    {
+      "id": "ORD-873664",
+      "userId": "5603246329",
+      "username": "Zayn0228",
+      "items": [
+        {
+          "id": "prod_1786262236871",
+          "name": "☁️ Gemini Pro Accounts",
+          "qty": 1,
+          "priceUsd": 0.01
+        }
+      ],
+      "totalAmount": 0.01,
+      "currency": "USD",
+      "paymentMethod": "binance_pay",
+      "paymentProof": "6386488638",
+      "status": "approved",
+      "createdAt": "2026-08-09T12:14:15.156Z"
+    },
+    {
+      "id": "ORD-345043",
+      "userId": "6506288872",
+      "username": "Hussain_xd",
+      "items": [
+        {
+          "id": "prod_1786262236871",
+          "name": "☁️ Gemini Pro Accounts",
+          "qty": 1,
+          "priceUsd": 0.01
+        }
+      ],
+      "totalAmount": 0.01,
+      "currency": "USD",
+      "paymentMethod": "binance_pay",
+      "paymentProof": "908057985642",
+      "status": "approved",
+      "createdAt": "2026-08-09T12:21:25.731Z"
+    },
+    {
+      "id": "ORD-105691",
+      "userId": "6506288872",
+      "username": "Hussain_xd",
+      "items": [
+        {
+          "id": "prod_1786262236871",
+          "name": "☁️ Gemini Pro Accounts",
+          "qty": 1,
+          "priceUsd": 0.01
+        }
+      ],
+      "totalAmount": 0.01,
+      "currency": "USD",
+      "paymentMethod": "binance_pay",
+      "paymentProof": "2382872852",
+      "status": "rejected",
+      "createdAt": "2026-08-09T12:28:14.351Z"
+    },
+    {
+      "id": "ORD-392955",
+      "userId": "6506288872",
+      "username": "Hussain_xd",
+      "items": [
+        {
+          "id": "prod_1786262236871",
+          "name": "☁️ Gemini Pro Accounts",
+          "qty": 1,
+          "priceUsd": 0.01
+        }
+      ],
+      "totalAmount": 0.01,
+      "currency": "USD",
+      "paymentMethod": "binance_pay",
+      "paymentProof": "8478423752305",
+      "status": "rejected",
+      "createdAt": "2026-08-09T12:31:57.127Z"
+    },
+    {
+      "id": "ORD-739352",
+      "userId": "6506288872",
+      "username": "Hussain_xd",
+      "items": [
+        {
+          "id": "prod_1786279479984",
+          "name": "Gemini link 18 month",
+          "qty": 1,
+          "priceUsd": 0.01
+        }
+      ],
+      "totalAmount": 0.01,
+      "currency": "USD",
+      "paymentMethod": "Wallet Balance",
+      "paymentProof": "Internal Wallet Deduction",
+      "status": "approved",
+      "createdAt": "2026-08-09T12:47:02.127Z"
+    },
+    {
+      "id": "ORD-878915",
+      "userId": "6665651781",
+      "username": "Rednox_Bro",
+      "items": [
+        {
+          "id": "prod_1786279479984",
+          "name": "Gemini link 18 month",
+          "qty": 1,
+          "priceUsd": 0.01
+        }
+      ],
+      "totalAmount": 0.01,
+      "currency": "USD",
+      "paymentMethod": "binance_pay",
+      "paymentProof": "447658218165813248",
+      "status": "approved",
+      "createdAt": "2026-08-09T16:45:23.576Z"
+    },
+    {
+      "id": "ORD-179784",
+      "userId": "6665651781",
+      "username": "Rednox_Bro",
+      "items": [
+        {
+          "id": "prod_ps_cc0d3d9d",
+          "name": "✉️ Emails Outlook/hotmail",
+          "qty": 1,
+          "priceUsd": 0.03
+        }
+      ],
+      "totalAmount": 0.03,
+      "currency": "USD",
+      "paymentMethod": "binance_pay",
+      "paymentProof": "448148280120582144",
+      "status": "approved",
+      "createdAt": "2026-08-12T07:50:03.798Z"
+    },
+    {
+      "id": "ORD-365703",
+      "userId": "6665651781",
+      "username": "Rednox_Bro",
+      "items": [
+        {
+          "id": "prod_ps_cc0d3d9d",
+          "name": "✉️ Emails Outlook/hotmail",
+          "qty": 1,
+          "priceUsd": 0.03
+        }
+      ],
+      "totalAmount": 0.03,
+      "currency": "USD",
+      "paymentMethod": "binance_pay",
+      "paymentProof": "448148904992964608",
+      "status": "approved",
+      "createdAt": "2026-08-12T07:53:58.428Z"
+    },
+    {
+      "id": "ORD-657094",
+      "userId": "6506288872",
+      "username": "Hussain_xd",
+      "items": [
+        {
+          "id": "prod_ps_cc0d3d9d",
+          "name": "✉️ Emails Outlook/hotmail",
+          "qty": 1,
+          "priceUsd": 0.03
+        }
+      ],
+      "totalAmount": 0.03,
+      "currency": "USD",
+      "paymentMethod": "Wallet Balance",
+      "paymentProof": "Internal Wallet Deduction",
+      "status": "approved",
+      "createdAt": "2026-08-12T09:41:02.734Z"
+    },
+    {
+      "id": "ORD-544153",
+      "userId": "5603246329",
+      "username": "Zayn0228",
+      "items": [
+        {
+          "id": "prod_ps_cc0d3d9d",
+          "name": "✉️ Emails Outlook/hotmail",
+          "qty": 1,
+          "priceUsd": 0.03
+        }
+      ],
+      "totalAmount": 0.03,
+      "currency": "USD",
+      "paymentMethod": "Wallet Balance",
+      "paymentProof": "Internal Wallet Deduction",
+      "status": "approved",
+      "createdAt": "2026-08-12T10:16:19.262Z"
+    },
+    {
+      "id": "ORD-229835",
+      "userId": "6506288872",
+      "username": "Hussain_xd",
+      "items": [
+        {
+          "id": "prod_ps_25da2c66",
+          "name": "Gemini Pro 18Months (link)",
+          "qty": 1,
+          "priceUsd": 3
+        }
+      ],
+      "totalAmount": 3,
+      "currency": "USD",
+      "paymentMethod": "Wallet Balance",
+      "paymentProof": "Internal Wallet Deduction",
+      "status": "approved",
+      "createdAt": "2026-08-12T12:01:51.207Z"
+    },
+    {
+      "id": "ORD-508904",
+      "userId": "6018660642",
+      "username": "Txkhcjl",
+      "items": [
+        {
+          "id": "prod_ps_cc0d3d9d",
+          "name": "✉️ Emails Outlook/hotmail",
+          "qty": 1,
+          "priceUsd": 0.1
+        }
+      ],
+      "totalAmount": 0.1,
+      "currency": "USD",
+      "paymentMethod": "Wallet Balance",
+      "paymentProof": "Internal Wallet Deduction",
+      "status": "approved",
+      "createdAt": "2026-10-15T09:00:47.676Z"
+    },
+    {
+      "id": "ORD-262760",
+      "userId": "6018660642",
+      "username": "Txkhcjl",
+      "items": [
+        {
+          "id": "prod_ps_cc0d3d9d",
+          "name": "✉️ Emails Outlook/hotmail",
+          "qty": 1,
+          "priceUsd": 0.1
+        }
+      ],
+      "totalAmount": 0.1,
+      "currency": "USD",
+      "paymentMethod": "Wallet Balance",
+      "paymentProof": "Internal Wallet Deduction",
+      "status": "approved",
+      "createdAt": "2026-10-15T09:54:56.785Z"
+    },
+    {
+      "id": "ORD-223874",
+      "userId": "6018660642",
+      "username": "Txkhcjl",
+      "items": [
+        {
+          "id": "prod_ps_cc0d3d9d",
+          "name": "✉️ Emails Outlook/hotmail",
+          "qty": 1,
+          "priceUsd": 0.05
+        }
+      ],
+      "totalAmount": 0.05,
+      "currency": "USD",
+      "paymentMethod": "Wallet Balance",
+      "paymentProof": "Internal Wallet Deduction",
+      "status": "approved",
+      "createdAt": "2026-10-15T11:01:49.164Z"
+    },
+    {
+      "id": "ORD-225654",
+      "userId": "6506288872",
+      "username": "Hussain_xd",
+      "items": [
+        {
+          "id": "prod_ps_8ba101e8",
+          "name": "Figma Pro Edu 2yrs",
+          "qty": 1,
+          "priceUsd": 8.5
+        }
+      ],
+      "totalAmount": 8.5,
+      "currency": "USD",
+      "paymentMethod": "Wallet Balance",
+      "paymentProof": "Internal Wallet Deduction",
+      "status": "approved",
+      "createdAt": "2026-10-15T11:03:40.829Z"
+    },
+    {
+      "id": "ORD-385617",
+      "userId": "6506288872",
+      "username": "Hussain_xd",
+      "items": [
+        {
+          "id": "prod_ps_e32bd2a6",
+          "name": "Prime Video 6 Months ",
+          "qty": 1,
+          "priceUsd": 3
+        }
+      ],
+      "totalAmount": 3,
+      "currency": "USD",
+      "paymentMethod": "Wallet Balance",
+      "paymentProof": "Internal Wallet Deduction",
+      "status": "approved",
+      "createdAt": "2026-10-15T12:29:29.900Z"
+    },
+    {
+      "id": "ORD-492911",
+      "userId": "6506288872",
+      "username": "Hussain_xd",
+      "items": [
+        {
+          "id": "prod_ps_5b380122",
+          "name": "100$ API Claude 30days",
+          "qty": 1,
+          "priceUsd": 2.9
+        }
+      ],
+      "totalAmount": 2.9,
+      "currency": "USD",
+      "paymentMethod": "Wallet Balance",
+      "paymentProof": "Internal Wallet Deduction",
+      "status": "approved",
+      "createdAt": "2026-10-15T13:06:41.810Z"
+    }
+  ],
+  "usedTrxIds": [
+    "447617819743764480",
+    "83833838",
+    "6386488638",
+    "983298423423",
+    "908057985642",
+    "447658218165813248",
+    "448148280120582144",
+    "448148904992964608"
+  ],
+  "tickets": [
+    {
+      "id": "TICKET-504234",
+      "userId": "5603246329",
+      "username": "Zayn0228",
+      "issueText": "Hi bro",
+      "status": "closed",
+      "createdAt": "2026-08-09T09:31:02.419Z",
+      "replyText": "hi",
+      "repliedAt": "2026-08-09T09:31:15.972Z"
+    },
+    {
+      "id": "TICKET-261316",
+      "userId": "6506288872",
+      "username": "Hussain_xd",
+      "issueText": "hi",
+      "status": "closed",
+      "createdAt": "2026-08-09T12:53:07.153Z",
+      "replyText": "hi yes",
+      "repliedAt": "2026-08-09T12:53:19.435Z"
+    },
+    {
+      "id": "TICKET-633060",
+      "userId": "6506288872",
+      "username": "Hussain_xd",
+      "issueText": "hi",
+      "status": "closed",
+      "createdAt": "2026-08-09T12:55:43.530Z",
+      "replyText": "g bhai jamnm",
+      "repliedAt": "2026-08-09T12:56:05.846Z"
+    },
+    {
+      "id": "TICKET-478768",
+      "userId": "6506288872",
+      "username": "Hussain_xd",
+      "issueText": "hi bro plz help me",
+      "status": "closed",
+      "createdAt": "2026-08-11T03:43:47.715Z",
+      "replyText": "yes bro",
+      "repliedAt": "2026-08-11T03:44:07.549Z"
+    }
+  ],
+  "giftCodes": {
+    "GIFT_100_SCK3VOM0": {
+      "code": "GIFT_100_SCK3VOM0",
+      "amount": 100,
+      "createdBy": "6506288872",
+      "createdAt": "2026-08-12T09:38:07.547Z",
+      "isUsed": true,
+      "usedBy": "999888777",
+      "usedAt": "2026-08-12T09:38:07.563Z"
+    },
+    "GIFT_10_ZPWGYFEP": {
+      "code": "GIFT_10_ZPWGYFEP",
+      "amount": 10,
+      "createdBy": "6506288872",
+      "createdAt": "2026-08-12T09:40:18.114Z",
+      "isUsed": true,
+      "usedBy": "6506288872",
+      "usedAt": "2026-08-12T09:40:35.251Z"
+    },
+    "GIFT_0_K2JK4T3Y": {
+      "code": "GIFT_0_K2JK4T3Y",
+      "amount": 0.03,
+      "createdBy": "6506288872",
+      "createdAt": "2026-08-12T10:15:00.982Z",
+      "isUsed": true,
+      "usedBy": "5603246329",
+      "usedAt": "2026-08-12T10:15:42.749Z"
+    },
+    "GIFT_50_XZAGG9J8": {
+      "code": "GIFT_50_XZAGG9J8",
+      "amount": 50,
+      "createdBy": "6506288872",
+      "createdAt": "2026-08-12T12:01:21.735Z",
+      "isUsed": true,
+      "usedBy": "6506288872",
+      "usedAt": "2026-08-12T12:01:33.035Z"
+    },
+    "GIFT_1_VT1MM69J": {
+      "code": "GIFT_1_VT1MM69J",
+      "amount": 1,
+      "createdBy": "6506288872",
+      "createdAt": "2026-08-13T05:11:13.795Z",
+      "isUsed": false,
+      "usedBy": null,
+      "usedAt": null
+    },
+    "GIFT_10_VQ8DO5R8": {
+      "code": "GIFT_10_VQ8DO5R8",
+      "amount": 10,
+      "createdBy": "6506288872",
+      "createdAt": "2026-08-16T03:51:46.789Z",
+      "isUsed": true,
+      "usedBy": "6506288872",
+      "usedAt": "2026-08-16T03:52:01.117Z"
+    },
+    "GIFT_0_ROFBRCM6": {
+      "code": "GIFT_0_ROFBRCM6",
+      "amount": 0.1,
+      "createdBy": "6506288872",
+      "createdAt": "2026-10-15T08:59:39.995Z",
+      "isUsed": true,
+      "usedBy": "6018660642",
+      "usedAt": "2026-10-15T09:00:08.634Z"
+    },
+    "GIFT_0_9GG1D40B": {
+      "code": "GIFT_0_9GG1D40B",
+      "amount": 0.1,
+      "createdBy": "6506288872",
+      "createdAt": "2026-10-15T09:54:05.120Z",
+      "isUsed": true,
+      "usedBy": "6018660642",
+      "usedAt": "2026-10-15T09:54:25.093Z"
+    },
+    "GIFT_1_UCAOX6LZ": {
+      "code": "GIFT_1_UCAOX6LZ",
+      "amount": 0.5,
+      "createdBy": "6506288872",
+      "createdAt": "2026-10-15T11:01:06.382Z",
+      "isUsed": true,
+      "usedBy": "6018660642",
+      "usedAt": "2026-10-15T11:01:22.001Z"
+    }
+  },
+  "coupons": [
+    {
+      "code": "HUSSAIN",
+      "discountPercent": 100,
+      "maxUses": 100,
+      "usedCount": 0,
+      "usedBy": [],
+      "createdAt": "2026-10-15T08:47:38.693Z"
+    }
+  ]
+}

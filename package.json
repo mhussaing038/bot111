@@ -1,0 +1,19 @@
+{
+  "name": "telegram_selling_bot",
+  "version": "1.0.0",
+  "description": "RedNox Store Telegram Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hussain_xd",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "node-telegram-bot-api": "^1.2.0"
+  },
+  "devDependencies": {}
+}
